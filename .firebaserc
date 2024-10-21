@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "wikitraining-fef9b",
+    "wikitraining": "wikitraining-fef9b"
+  },
+  "targets": {},
+  "etags": {}
+}
